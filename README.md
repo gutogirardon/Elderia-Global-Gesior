@@ -20,7 +20,7 @@ $username = "root";
 $password = "";
 $dbname = "gesior";
 Esse arquivo "lê" as respostas das notificações que o pagseguro envia e de acordo com a mensagem (aprovada ou não) ele insere os coins direto na conta na tabela pagseguro_transactions.
-
+```
 # Elderia-Online-Gesior-Website
 <p align="center"><img src="main.png" /></p>
 
