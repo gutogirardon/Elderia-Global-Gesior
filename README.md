@@ -1,5 +1,6 @@
 # LEIA COM ATENÇÃO - INTEGRAÇÃO PAGSEGURO
-```1) Arquivo config.php
+```
+1) Arquivo config.php
 Configurar esses três campos
 $config['pagseguro']['email']
 $config['pagseguro']['token']
